@@ -30,3 +30,5 @@ Quiero seguir mejorando mis habilidades en programación y convertirme en un des
 ## 🔥 En resumen
 
 Soy una persona curiosa, con muchas ganas de aprender y seguir creciendo en el mundo de la programación y el desarrollo web.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raikkito&theme=transparent&locale=es)](https://git.io/streak-stats)
